@@ -12,7 +12,7 @@ export const experience = [
     text: "APIs, dashboards, admin panels. The usual stack, done properly.",
   },
   {
-    year: "2024",
+    year: "2025",
     title: "Frontend Work",
     company: "UI & motion",
     text: "Learned that small animations and tight spacing change how a site feels.",

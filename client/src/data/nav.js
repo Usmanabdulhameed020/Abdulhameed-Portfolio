@@ -3,5 +3,4 @@ export const nav = [
   ["about", "About"],
   ["skills", "Skills"],
   ["projects", "Projects"],
-  ["contact", "Contact"],
 ];
