@@ -60,9 +60,9 @@ export default function ContactSection() {
 
           <div className="mt-8 rounded-[1.5rem] border border-cyan-400/20 bg-cyan-400/8 p-5">
             <div className="font-semibold text-cyan-300">Email</div>
-            <div className="mt-1 text-white/85">usman@example.com</div>
+            <div className="mt-1 text-white/85">usmanabdulhameed020@gmail.com</div>
             <div className="mt-4 font-semibold text-cyan-300">Based in</div>
-            <div className="mt-1 text-white/85">Lagos, Nigeria</div>
+            <div className="mt-1 text-white/85">Ilorin, Nigeria</div>
           </div>
 
           <div className="mt-8">
