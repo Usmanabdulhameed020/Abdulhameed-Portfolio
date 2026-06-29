@@ -28,7 +28,7 @@ export default function Footer() {
         >
           {profile.name}
         </motion.p>
-        <p className="text-sm text-white/40">Built with React. Click anywhere — particles burst.</p>
+        <p className="text-sm text-white/40">Built by Abdulhameed🫰👌😒👌✌️.</p>
       </div>
     </motion.footer>
   );
